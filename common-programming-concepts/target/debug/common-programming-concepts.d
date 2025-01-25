@@ -1,1 +1,0 @@
-/Users/kzelly/Workspace/Study/rust/rust_learning/common-programming-concepts/target/debug/common-programming-concepts: /Users/kzelly/Workspace/Study/rust/rust_learning/common-programming-concepts/src/functions.rs /Users/kzelly/Workspace/Study/rust/rust_learning/common-programming-concepts/src/main.rs
